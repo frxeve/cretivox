@@ -1,3 +1,5 @@
+# Project ini digunakan sebagai dummy project
+
 # cretivox
 
 ## Project setup
